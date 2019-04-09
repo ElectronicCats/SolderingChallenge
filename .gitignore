@@ -2,3 +2,11 @@
 Hw/\.DS_Store
 
 \.DS_Store
+
+Hw/solderingChallenge-cache\.lib
+
+Hw/fp-info-cache
+
+Hw/solderingChallenge\.bak
+
+Hw/solderingChallenge\.kicad_pcb-bak
