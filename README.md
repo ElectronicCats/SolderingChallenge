@@ -4,7 +4,7 @@ Introduction
 This design is based on the work of [aspro648](https://github.com/aspro648) you can support him buying his stuff at [Tindie](https://www.tindie.com/products/MakersBox/smd-challenge/)
 
 ![SMD Challenge](https://raw.githubusercontent.com/ElectronicCats/solderingChallenge/master/Images/solderingChallengeGreenFront.png) 
-Test your surface mount soldering skills out, starting with a 1206 package and work your way down into the humanly possible solder device, the 0402 is. Powered by a CR2032 coin cell and Attiny 85 SOIC. 
+Test your surface mount soldering skills out, starting with a 1206 package and work your way down into the humanly possible solder device, the 0402. Powered by a CR2032 coin cell and Attiny 85 SOIC. 
 
 
 Design Files
