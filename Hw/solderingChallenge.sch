@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Soldering Challenge"
-Date "2019-04-09"
-Rev "v0.2"
+Date "2019-04-10"
+Rev "v1.0"
 Comp "Electronic Cats"
 Comment1 "Eduardo Contreras"
 Comment2 ""
@@ -52,17 +52,17 @@ F 3 "" H 5810 4700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5810 4700 5810 4585
-Text Label 6410 4185 0    50   ~ 0
+Text Label 6410 4185 0    50   ~ 6
 RST
-Text Label 6410 3685 0    50   ~ 0
+Text Label 6410 3685 0    50   ~ 6
 PB0
-Text Label 6410 3785 0    50   ~ 0
+Text Label 6410 3785 0    50   ~ 6
 PB1
-Text Label 6410 3885 0    50   ~ 0
+Text Label 6410 3885 0    50   ~ 6
 PB2
-Text Label 6410 3985 0    50   ~ 0
+Text Label 6410 3985 0    50   ~ 6
 PB3
-Text Label 6410 4085 0    50   ~ 0
+Text Label 6410 4085 0    50   ~ 6
 PB4
 $Comp
 L Device:LED D1
@@ -160,13 +160,13 @@ F 3 "~" H 7480 4385 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7215 4385 7330 4385
-Text Label 6925 3975 2    50   ~ 0
+Text Label 6925 3975 2    50   ~ 6
 PB0
-Text Label 6940 3560 2    50   ~ 0
+Text Label 6940 3560 2    50   ~ 6
 PB1
-Text Label 6935 3185 2    50   ~ 0
+Text Label 6935 3185 2    50   ~ 6
 PB2
-Text Label 6915 4385 2    50   ~ 0
+Text Label 6915 4385 2    50   ~ 6
 PB3
 Wire Wire Line
 	7765 4525 7765 4385
@@ -238,11 +238,11 @@ F 3 "" H 4575 4105 50  0001 C CNN
 	1    4575 4105
 	1    0    0    -1  
 $EndComp
-Text Label 4515 2765 2    50   ~ 0
+Text Label 4515 2765 2    50   ~ 6
 MISO
-Text Label 4515 2865 2    50   ~ 0
+Text Label 4515 2865 2    50   ~ 6
 SCK
-Text Label 4515 2965 2    50   ~ 0
+Text Label 4515 2965 2    50   ~ 6
 RST
 $Comp
 L power:VCC #PWR0112
@@ -270,13 +270,13 @@ F 3 "" H 5140 3030 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5140 3030 5140 2965
-Text Label 5015 2865 0    50   ~ 0
+Text Label 5015 2865 0    50   ~ 6
 MOSI
-Text Label 5610 2845 2    50   ~ 0
+Text Label 5610 2845 2    50   ~ 6
 MISO
-Text Label 5605 2950 2    50   ~ 0
+Text Label 5605 2950 2    50   ~ 6
 SCK
-Text Label 5615 2730 2    50   ~ 0
+Text Label 5615 2730 2    50   ~ 6
 MOSI
 $Comp
 L Connector_Generic:Conn_02x03_Odd_Even J1
@@ -293,15 +293,15 @@ Wire Wire Line
 	5015 2765 5150 2765
 Wire Wire Line
 	5015 2965 5140 2965
-Text Label 5740 2845 0    50   ~ 0
+Text Label 5740 2845 0    50   ~ 6
 PB1
 Wire Wire Line
 	5740 2845 5610 2845
-Text Label 5740 2950 0    50   ~ 0
+Text Label 5740 2950 0    50   ~ 6
 PB2
 Wire Wire Line
 	5740 2950 5605 2950
-Text Label 5740 2730 0    50   ~ 0
+Text Label 5740 2730 0    50   ~ 6
 PB0
 Wire Wire Line
 	5615 2730 5740 2730
@@ -526,14 +526,14 @@ F 3 "" H 5410 5575 50  0001 C CNN
 	1    5410 5575
 	1    0    0    -1  
 $EndComp
-Text Label 4450 5085 3    50   ~ 0
+Text Label 4450 5085 3    50   ~ 6
 PB0
-Text Label 4690 5085 3    50   ~ 0
+Text Label 4690 5085 3    50   ~ 6
 PB1
-Text Label 4930 5085 3    50   ~ 0
+Text Label 4930 5085 3    50   ~ 6
 PB2
-Text Label 5160 5080 3    50   ~ 0
+Text Label 5160 5080 3    50   ~ 6
 PB3
-Text Label 5415 5085 3    50   ~ 0
+Text Label 5415 5085 3    50   ~ 6
 PB4
 $EndSCHEMATC

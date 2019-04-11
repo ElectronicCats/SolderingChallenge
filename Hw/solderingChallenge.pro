@@ -1,4 +1,4 @@
-update=2019 April 08, Monday 20:25:25
+update=2019 April 10, Wednesday 19:44:47
 version=1
 last_client=kicad
 [general]
@@ -70,3 +70,13 @@ uViaDrill=0.1
 dPairWidth=0.3
 dPairGap=0.3
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/eduardocontreras/Documents/Electronic_Cats/Proyectos/Hw/solderingChallenge/Images/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
