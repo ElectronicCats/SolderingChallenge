@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "Soldering Challenge"
 Date "2019-04-09"
-Rev "v0.1"
+Rev "v0.2"
 Comp "Electronic Cats"
 Comment1 "Eduardo Contreras"
 Comment2 ""
