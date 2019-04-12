@@ -3,6 +3,8 @@ Introduction
 
 This design is based on the work of [aspro648](https://github.com/aspro648) you can support him buying his stuff at [Tindie](https://www.tindie.com/products/MakersBox/smd-challenge/)
 
+This design was possible thanks to [Mouser electronics](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), [Würth Elektronik](https://www.we-online.com/web/en/electronic_components/willkommen_pbs/Welcome.php) and [Makers GDL](https://makersgdl.com/) we really appreciate all your support to get this boards free for the Talent Land 2019.
+
 ![SMD Challenge](https://raw.githubusercontent.com/ElectronicCats/solderingChallenge/master/Images/solderingChallengeGreenFront.png) 
 Test your surface mount soldering skills out, starting with a 1206 package and work your way down into the humanly possible solder device, the 0402. Powered by a CR2032 coin cell and Attiny 85 SOIC. 
 
