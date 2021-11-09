@@ -11,7 +11,7 @@ Test your surface mount soldering skills out, starting with a 1206 package and w
 
 Design Files
 ============
-This project is designed using Open Source [KiCad](http://kicad-pcb.org/). Design files are located in the [Hw](Hw/) folder.  You can oogle the [schematic](Images/solderingChallenge.pdf).
+This project is designed using Open Source [KiCad](http://kicad.org/). Design files are located in the [Hw](Hw/) folder.  You can oogle the [schematic](Images/solderingChallenge.pdf).
 
 Firmware
 ========
