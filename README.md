@@ -1,6 +1,10 @@
 Introduction
 ============
 
+## Version 2.0
+New version 2.0 with Microcontroller PUYA available now!!
+
+## Version 1
 This design is based on the work of [aspro648](https://github.com/aspro648) you can support him buying his stuff at [Tindie](https://www.tindie.com/products/MakersBox/smd-challenge/)
 
 This design was possible thanks to [Mouser electronics](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), [Würth Elektronik](https://www.we-online.com/web/en/electronic_components/willkommen_pbs/Welcome.php) and [Makers GDL](https://makersgdl.com/) we really appreciate all your support to get this boards free for the Talent Land 2019.
